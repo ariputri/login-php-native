@@ -1,5 +1,5 @@
 # About login-php-native
-A simple login form with PHP native and JavaScript
+A simple login form with PHP native
 
 # How to Create
 1. Create the Form file or login.php
